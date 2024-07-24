@@ -53,5 +53,3 @@ Diagnostics_Waiting_Time_50_56 <- Diagnostics_Data_Cleanned|>
   mutate(WaitingTime = str_replace(WaitingTime, "50-56 days", "56 Days or under"))
 
 ###### Creating Summary Files for Future Dashboard Plotly Graphs and Maps
-
-#### 0-7 Days after being referred waiting time
